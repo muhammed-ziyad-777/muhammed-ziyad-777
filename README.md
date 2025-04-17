@@ -9,9 +9,8 @@
   <img align="left" alt="muhammed ziyad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"https://www.linkedin.com/in/muhammed-ziyad-470697357/" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:bouaskaoun.mz0359147@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Bouaskaoun"https://www.linkedin.com/in/muhammed-ziyad-470697357/" alt="GitHub"/></a>
 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
