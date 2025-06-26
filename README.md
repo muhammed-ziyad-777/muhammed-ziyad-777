@@ -28,6 +28,7 @@
 
 
 <p align="center">
-  <img src="GIF_LINK_HERE" width="400"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
 </p>
+
 
