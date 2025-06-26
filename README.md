@@ -26,5 +26,3 @@
 
 
 
- ![Header](https://your-image-url.com/header.png)
-
