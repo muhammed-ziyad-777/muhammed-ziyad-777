@@ -29,9 +29,8 @@
 
 
 
-<h1 Hi 👋, I'm Mohammed Ziyad
 
 
-
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="350" />
+</p>
