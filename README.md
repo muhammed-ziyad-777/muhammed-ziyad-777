@@ -29,7 +29,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mohammed Ziyad
+<h1 Hi 👋, I'm Mohammed Ziyad
 
 
 
