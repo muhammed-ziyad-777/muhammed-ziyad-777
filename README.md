@@ -27,4 +27,7 @@
 
 
 
+<p align="center">
+  <img src="GIF_LINK_HERE" width="400"/>
+</p>
 
