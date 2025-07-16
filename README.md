@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/muhammed-ziyad-777"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:bouaskaoun.mz0359147@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammed-ziyad-470697357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://https://www.linkedin.com/in/mohammed-ziyad-854915372//in/muhammed-ziyad-470697357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.instagram.com/ziii.yaad._/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
