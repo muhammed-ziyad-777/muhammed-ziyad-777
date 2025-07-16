@@ -57,7 +57,7 @@
 ### 🙌 Let's Connect
 
 💌 **Email**: bouaskaoun.mz0359147@gmail.com  
-🔗 **LinkedIn**: [Click Here](https://www.linkedin.com/in/muhammed-ziyad-470697357/)  
+🔗 **LinkedIn**: [Click Here](https://www.linkedin.com/in/mohammed-ziyad-854915372/)  
 📷 **Instagram**: [@ziii.yaad._](https://www.instagram.com/ziii.yaad._/)  
 🏅 **Kaggle**: [My Profile](https://www.kaggle.com/bouaskaounmohammed)
 
