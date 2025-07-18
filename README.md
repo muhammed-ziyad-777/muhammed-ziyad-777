@@ -1,5 +1,4 @@
-![Ziyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-ziyad-777&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammed-ziyad-777&theme=dark)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile!&animation=fadeIn&type=waving&color=gradient" />
 </p>
