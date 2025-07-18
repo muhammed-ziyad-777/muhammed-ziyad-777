@@ -1,25 +1,21 @@
-# 👋 Hi, I’m **Muhammed Ziyad**
+<h1 align="center">Hi 👋, I'm Muhammed Ziyad</h1>
+<h3 align="center">An AI & Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey+I%27m+Muhammed+Ziyad!&animation=fadeIn&type=waving&color=gradient" alt="Welcome"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Working on Computer Sticker"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter--1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=github&style=for-the-badge" alt="Portfolio"/></a>
-</p>
+## 💫 About Me
 
----
-
-## 🧾 About Me
 ```yaml
 name: Muhammed Ziyad
-role: Full-Stack Developer
-focus: Web3, Blockchain, AI/ML
-currently_learning: Rust, Solana, Docker
-fun_fact: I thrive on coding at 3 AM ☕
+role: AI & Full‑Stack Developer
+specialties:
+  - Machine Learning (Regression, Classification)
+  - Web Development (Flask, Streamlit, React)
+  - AI-integrated Projects (e.g. Speech Recognition)
+currently_learning: Rust, Docker, FastAPI
+email: your-email@example.com
 
