@@ -1,7 +1,9 @@
+<h1 align="center">🎉 Welcome to my GitHub Profile!</h1>
+
 <h1 align="center">👋 Hi, I'm Muhammed Ziyad</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 <p align="center">
