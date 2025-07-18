@@ -1,77 +1,42 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile!&animation=fadeIn&type=waving&color=gradient" />
-</p>
+## 🚀 Featured Projects
 
-<h1 align="center">👋 Hi, I'm Muhammed Ziyad</h1>
+### 🔹 Airline Passenger Satisfaction Prediction
+- 🔍 Machine Learning Classification using Random Forest
+- 🔧 Scikit-learn Pipelines, Flask, and Streamlit
+- 📊 Shows feature importance, customer insights, and live predictions
+- 🔗 [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/yourrepo)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+### 🔹 AI Language Teacher
+- 🗣️ Real-time pronunciation feedback using Speech Recognition and Flask
+- 🧠 NLP + JavaScript for interactive feedback
+- 🔗 [Live Demo](https://your-live-demo-link.com)
+### 🌍 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/muhammed-ziyad-777"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:bouaskaoun.mz0359147@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://https://www.linkedin.com/in/mohammed-ziyad-854915372//in/muhammed-ziyad-470697357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ziii.yaad._/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammed-ziyad-777&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🧑‍💻 About Me
+### 💻 My Workspace
+- 🖥️ OS: Ubuntu 22.04 / Windows 11
+- 🔧 Editor: VSCode, JupyterLab
+- 🌐 Browser: Firefox Developer Edition
+- 💬 Terminal: Zsh + Oh My Zsh
+- 🧠 Tools: Git, Docker, Postman
 
-- 💼 **DevOps and Python Developer Intern at [@Machaao](https://github.com/machaao)**
-- 🎓 Microsoft Student Partner | Projects Lead at CodeChefVIT
-- 💡 Passionate about **DevOps, Backend Development, Cloud Computing, and Automation**
-- 🤝 Open to **freelance** projects and love contributing to **Open Source**
-- 🚀 Built multiple projects across different tech stacks and domains
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How I Built an AI Language Teacher](https://your-blog.com/post-1)
+- [Deploying ML Models with Streamlit](https://your-blog.com/post-2)
+<!-- BLOG-POST-LIST:END -->
 
----
+### 🐍 Contribution Graph Snake
+![snake gif](https://github.com/muhammed-ziyad-777/muhammed-ziyad-777/blob/output/github-contribution-grid-snake.svg)
 
-### 🔧 Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-ziyad-777&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ziyad-777&layout=compact&theme=radical" width="330"/>
-</p>
-![Ziyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
-## 🔥 My Contributions
-![My Contributions](./path-to-image.png)
-## 🔥 My Contributions
-![My Contributions](./contributions.png)
-
-### 🏗️ Featured Projects
-
-- 🏠 [**Real Estate Price Prediction**](https://github.com/muhammed-ziyad-777/real-estate-price-prediction)
-- 🍽️ [**Food Price Prediction**](https://github.com/muhammed-ziyad-777/food-price-prediction)
-- 🌍 [**Location Comparison Feature using Flask**](https://github.com/muhammed-ziyad-777/location-comparison)
-
----
-
-### 🙌 Let's Connect
-
-💌 **Email**: bouaskaoun.mz0359147@gmail.com  
-🔗 **LinkedIn**: [Click Here](https://www.linkedin.com/in/mohammed-ziyad-854915372/)  
-📷 **Instagram**: [@ziii.yaad._](https://www.instagram.com/ziii.yaad._/)  
-🏅 **Kaggle**: [My Profile](https://www.kaggle.com/bouaskaounmohammed)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+glad+you're+here.🚀;Explore+my+projects+below!" />
-</p>
+### 🚀 Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
