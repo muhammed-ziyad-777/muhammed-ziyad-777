@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR1d3h3NHE0dG01d2x5eGdwZXo0NnJvMnFja3p6d3F5NjJ5ODJjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=35&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm Muhammed Ziyad</h1>
