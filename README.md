@@ -43,6 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammed-ziyad-777&show_icons=true&theme=radical" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-ziyad-777&layout=compact&theme=radical" width="330"/>
 </p>
+![Ziyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+## 🔥 My Contributions
+![My Contributions](./path-to-image.png)
+## 🔥 My Contributions
+![My Contributions](./contributions.png)
 
 ### 🏗️ Featured Projects
 
