@@ -47,7 +47,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammed-ziyad-777&show_icons=true&theme=radical" width="450"/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=visxnu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
+
+
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=visxnu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 ---
@@ -57,8 +60,6 @@
 - 🏠 [**Real Estate Price Prediction**](https://github.com/muhammed-ziyad-777/real-estate-price-prediction)
 - 🍽️ [**Food Price Prediction**](https://github.com/muhammed-ziyad-777/food-price-prediction)
 - 🌍 [**Location Comparison Feature using Flask**](https://github.com/muhammed-ziyad-777/location-comparison)
-
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=visxnu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 
 ---
