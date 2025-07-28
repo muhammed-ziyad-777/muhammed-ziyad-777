@@ -58,6 +58,9 @@
 - 🍽️ [**Food Price Prediction**](https://github.com/muhammed-ziyad-777/food-price-prediction)
 - 🌍 [**Location Comparison Feature using Flask**](https://github.com/muhammed-ziyad-777/location-comparison)
 
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=visxnu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+
 ---
 
 ### 🙌 Let's Connect
