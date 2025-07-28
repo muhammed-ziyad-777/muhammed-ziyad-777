@@ -104,15 +104,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+glad+you're+here.🚀;Explore+my+projects+below!" />
 </p>
-
 <br/>
-
 <div align="center">
 <a href='https://ko-fi.com/visxmu' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
 
-
-</details>
-</br></br>
