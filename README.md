@@ -18,6 +18,25 @@
   <a href="https://www.instagram.com/ziii.yaad._/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <!-- Popular Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+  
+  <!-- Web Frameworks -->
 ---
 
 ### 🧑‍💻 About Me
