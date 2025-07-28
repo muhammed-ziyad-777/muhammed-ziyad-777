@@ -105,10 +105,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+glad+you're+here.🚀;Explore+my+projects+below!" />
 </p>
 
-<br/><br/>
-
-<hr/>
-
 <br/>
 
 <div align="center">
